@@ -1,3 +1,4 @@
 Hello from second
 Hello from second 2
 
+something in second.txt.
